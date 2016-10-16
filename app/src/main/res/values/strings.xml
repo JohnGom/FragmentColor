@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">FragmentColor</string>
+    <string name="azul">Azul</string>
+    <string name="rojo">Rojo</string>
+    <string name="amarillo">Amarillo</string>
+    <string name="verde">Verde</string>
+
+    <string name="fragmentAma">Fragmento de color Amarillo</string>
+    <string name="fragmentVer">Fragmento de color Verde</string>
+    <string name="fragmentAzu">Fragmento de color Azul</string>
+    <string name="fragmentRo">Fragmento de color Rojo</string>
+
+</resources>
